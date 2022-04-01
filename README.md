@@ -8,4 +8,4 @@ You just need to download the files corresponding to your system, and follow the
 
 The Actual Trading would start at 10:45 PM.
 
-[15 Years of WnCC](15.png)
+![15 Years of WnCC](15.png)
