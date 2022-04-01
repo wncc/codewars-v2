@@ -25,8 +25,8 @@ class Bot:
     def GetInterest(self):
         return self.Game.GetInterest()
     
-    def GetBeta(self):
-        return self.Game.GetBeta()
+    def GetBeta(self,security):
+        return self.Game.GetBeta(security)
     
     def GetShareBalance(self,security):
         return self.Game.GetShareBalance(security)
