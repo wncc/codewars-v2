@@ -19,6 +19,6 @@ The Winners are :
 2. Stonks : Kaushal Jadhav, Shrey Ganatra, Jahnvi Rohela
 3. Codewarriors : Tanmay Dokania, Navneet, Aziz Shameem
 
-All the Teams that had either submitted the same file which we gave them as a sample(exact or with minute changes), as well as those whose code didn't compile(/did stuff it wasn't supposed to) have been disqualied. The Results for all the other teams is available [here](Result.pdf).
+All the Teams that had either submitted the same file which we gave them as a sample(exact or with minute changes), submitted buggy code which didn't compile(/did stuff it wasn't supposed to) or had just ```pass``` as their strategy, have been disqualified. The Results for all the other teams is available [here](Result.pdf).
 
 We ran the code for various market settings as labelled in the columns.
