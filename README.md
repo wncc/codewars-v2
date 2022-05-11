@@ -21,4 +21,4 @@ The Winners are :
 
 All the Teams that had either submitted the same file which we gave them as a sample(exact or with minute changes), submitted buggy code which didn't compile(/did stuff it wasn't supposed to) or had just ```pass``` as their strategy, have been disqualified. The Results for all the other teams is available [here](Result.pdf).
 
-We ran the code for various market settings as labelled in the columns.
+We ran the code for various market settings as labelled in the columns. The numbers you see in each column is the performance of your code as compared to the benchmark code which just passed. 12 teams had written resilient strategies which were able to out-perform benchmarks in overall scenario. Out of these the top 7 were exceptionally well in the sense that they were able to perform great in each scenario individually as well, giving them an outlandish overall return.
